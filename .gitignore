@@ -1,0 +1,10 @@
+## MAC OS files
+.DS_Store
+.history
+
+
+## IntelliJ files
+.idea
+.bin
+*.iml
+
